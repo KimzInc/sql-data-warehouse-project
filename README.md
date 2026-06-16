@@ -16,7 +16,7 @@ The project follows industry-standard data engineering and analytics practices, 
 
 #### Objective
 
-Design and implement a scalable data warehouse using **SQL Server** or **PostgreSQL** that consolidates data from multiple operational systems into a single source of truth for analytical reporting.
+Design and implement a scalable data warehouse using **Python** and **PostgreSQL** that consolidates data from multiple operational systems into a single source of truth for analytical reporting.
 
 #### Key Requirements
 
